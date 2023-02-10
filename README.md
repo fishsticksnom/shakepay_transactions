@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Shakepay Account Movements</h1>
+<h1>Shakepay Transactions</h1>
 <img src="https://blog.shakepay.com/content/images/size/w2000/2021/04/Untitled-design--1--1.png" alt="shakepay logo" width="400" />
 </div>
 
